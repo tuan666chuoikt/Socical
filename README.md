@@ -2,7 +2,7 @@
 
 B1: Kích hoạt môi trường
 .\env\Scripts\activate
-B2: Đi đến thư mục "myproject"
+B2: Đi đến thư mục "social_book"
 cd .\myproject
 
 B3: Chạy lệnh python manage.py runserver

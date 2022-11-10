@@ -6,7 +6,7 @@ B1: Kích hoạt môi trường
 <br>
 B2: Đi đến thư mục "social_book"
 <br>
-cd .\myproject
+cd .\social_book
 <br>
 B3: Chạy lệnh python manage.py runserver
 <br>

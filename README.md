@@ -4,9 +4,9 @@ B1: Kích hoạt môi trường
 <br>
 .\env\Scripts\activate
 <br>
-B2: Đi đến thư mục "social_book"
+B2: Đi đến thư mục "Social"
 <br>
-cd .\social_book
+cd .\Social
 <br>
 B3: Chạy lệnh python manage.py runserver
 <br>
